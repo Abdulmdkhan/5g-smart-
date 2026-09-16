@@ -1,0 +1,6 @@
+{
+  "name": "Smart 5G Only",
+  "description": "A fully functional Android utility application that forces the network connection to 5G (NR Only) mode, exactly like the Force 5G Only network switcher apps on the Play Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
